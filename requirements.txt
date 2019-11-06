@@ -1,0 +1,12 @@
+retvid
+numpy
+scipy
+matplotlib
+torch
+torchvision
+tqdm
+scikit-learn
+scikit-image
+opencv-python
+psutil
+
